@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvSingIn">Ввойти текст</string>
+    <string name="btnTvSingIn">Ввойти кнопка</string>
+    <string name="tvCreateAccount">Создать аккаунт текст</string>
+    <string name="btnCraeteAccount">Создать аккаунт кнопка</string>
+</resources>
